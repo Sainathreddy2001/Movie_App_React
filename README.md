@@ -1,6 +1,7 @@
 # Demo Images of Website
 [Demo_Image](public/demo_image1.png)
 [Demo_Image](public/demo_image2.png)
+(public/demo_image2.png)
 
 
 # Getting Started with Create React App
